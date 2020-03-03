@@ -18,49 +18,6 @@
 <div align="justify"> hola </div>
 
 
-<table border=" "> 
-
-	<tr>
-		<td colspan="6"><div align="center"><b>Union filas</td></div></b>
-	</tr>
-	
-	<tr>
-		<td rowspan="5"><b>Union columnas</b></td>
-	</tr>
-	
-	<tr>
-		
-		<td><b> Nombre </b></td>
-		<td><b>Apellido</b></td>
-		<td><b>Edad</b></td>
-		<td><b>Profesion</b></td>
-		<td><b>Profe</b></td>
-		<h1>kevin primito lindo</h1>
-		
-	</tr>
-	
-	<tr>
-		<td>Vivian</td>
-		<td>Arrieta</td>
-		<td>30</td>
-		<td>Ing.</td>
-	</tr>
-	
-	<tr>
-		<td>Junior</td>
-		<td>Arrieta</td>
-		<td>23</td>
-		<td>Ing</td>
-	</tr>
-	
-	<tr>
-		<td>Kevin</td>
-		<td>Arrieta</td>
-		<td>27</td>
-		<td>Ing</td>
-	</tr>
-	
-</table>
 
 </body>
 </html>

@@ -1,0 +1,65 @@
+<html>
+
+ <head>
+ 	<title>Tabla</title>
+	Crear tabla con nombre apellido edad con borde, estructura y etiquetas
+ </head>
+ 
+ <body>
+
+<h1><strong>hola vivian</strong></h1>
+<h5>hola</h5>
+<strong>hola</strong>
+<b>hola</b>
+<i>hola</i>
+<u>hola</u>
+<div align="center"> hola </div>
+<div align="right"> hola </div>
+<div align="justify"> hola </div>
+
+
+<table border=" "> 
+
+	<tr>
+		<td colspan="6"><div align="center"><b>Union filas</td></div></b>
+	</tr>
+	
+	<tr>
+		<td rowspan="5"><b>Union columnas</b></td>
+	</tr>
+	
+	<tr>
+		
+		<td><b> Nombre </b></td>
+		<td><b>Apellido</b></td>
+		<td><b>Edad</b></td>
+		<td><b>Profesion</b></td><
+		
+	</tr>
+	
+	<tr>
+		<td>Vivian</td>
+		<td>Arrieta</td>
+		<td>30</td>
+		<td>Ing.</td>
+	</tr>
+	
+	<tr>
+		<td>Junior</td>
+		<td>Arrieta</td>
+		<td>23</td>
+		<td>Ing</td>
+	</tr>
+	
+	<tr>
+		<td>Kevin</td>
+		<td>Arrieta</td>
+		<td>27</td>
+		<td>Ing</td>
+	</tr>
+	
+</table>
+
+</body>
+</html>
+
